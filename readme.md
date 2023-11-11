@@ -2,6 +2,6 @@
 
 Lists of what I have, and what’s for sale or giveaway.
 
-- [Vintage Mac Hardware](vintage-mac-hardware)
-- [Vintage Mac Software](vintage-mac-software)
+- [Vintage Mac Hardware](vintage-mac-hardware.md)
+- [Vintage Mac Software](vintage-mac-software.md)
 
