@@ -1,6 +1,6 @@
 # Vintage Apple Mac stuff
 
-Lists of what I have for sale or giveaway. From the 80s onwards, mostly 90s. I’m not a collector or a hoarder, I just don’t throw Apple stuff away. Instead I store it carefully away from heat, sunlight, etc.
+Lists of what I have for sale or giveaway. From the 80s onwards, mostly 90s. I’m not a collector or a hoarder, I just don’t throw Apple stuff away. Instead I store it carefully away from heat, sunlight, etc. In the U.K. but can consider shipping some smaller items—can’t face the risk of packing desktops or monitors though.
 
 Now, I just want them to go to a good home.
 
