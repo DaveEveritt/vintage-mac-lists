@@ -1,3 +1,5 @@
+![Vintage Apple Mac software](apple-vintage-software.jpg)
+
 # Vintage Apple Mac software etc.
 
 Most software boxed, some with licences, some unregistered or unused. Boxes in variable condition, some excellent, some creased but intact.

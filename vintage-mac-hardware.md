@@ -1,3 +1,5 @@
+![Vintage Apple Mac](apple-logo-performa5200.png)
+
 # Vintage Apple Mac hardware
 
 Some need files on HD removing/reformatting, possibly recapping (if not started recently).
