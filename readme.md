@@ -1,3 +1,5 @@
+![Vintage Apple Mac keyboards](apple-keyboards.jpg)
+
 # Vintage Apple Mac stuff
 
 Lists of my Apple Mac items for sale or donation. From the 80s onwards, mostly 90s. I’m not a collector or hoarder, I just can’t face throwing Apple stuff away. Instead I store it carefully protected from heat, sunlight, etc. I’m in the U.K. but can consider shipping some smaller items—can’t face the risk of packing desktops or monitors though.
