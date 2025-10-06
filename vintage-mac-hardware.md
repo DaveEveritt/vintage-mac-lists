@@ -14,7 +14,7 @@ For machine-specific Apple software and manuals see below.
 
 - **Powerbook 100**: my first laptop kept for sentimental reasons, needs recap. Almost mint condition, maxed RAM, external floppy, charger, manual and docs.
 - **Powerbook 170**: (one of the original 3 powerbook line) hard drive dead replacement available, charger.
-- **Macintosh LC**: 1990 Model M0350, contains various DTP software (images: [front](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-01.jpg) [back](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-02.jpg) [ID plate](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-03.jpg) [inside](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-04.jpg))
+- **Macintosh LC**: 1990 Model M0350, contains various DTP software (images: [front](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-01.jpg), [back](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-02.jpg), [ID plate](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-03.jpg), [inside](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-04.jpg))
 - **Performa 5200**: 8mb RAM System 7.5.3
 - **Power Macintosh 7200/90** LOL—including voice control with a little figure called 'Lisa’…
 - **Tangerine iMac**: matching puck mouse, keyboard (mouse/keyboard need finding by me). Matching tangerine iPod mini and speaker available, and something else tangerine that I can’t remember right now. Nice little set, anyway (it was my late father’s)!
