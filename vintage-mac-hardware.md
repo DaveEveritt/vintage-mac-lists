@@ -17,15 +17,16 @@ For machine-specific Apple software and manuals see below.
 - **Macintosh LC**: 1990 Model M0350, contains various DTP software (images: [front](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-01.jpg), [back](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-02.jpg), [ID plate](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-03.jpg), [inside](vintage-apple-images/vintage-apple-hardware/macintosh-lc/macintosh-lc-04.jpg))
 - **Performa 5200**: 8mb RAM System 7.5.3
 - **Power Macintosh 7200/90** LOL—including voice control with a little figure called 'Lisa’…
-- **Tangerine iMac**: matching puck mouse, keyboard (mouse/keyboard need finding by me). Matching tangerine iPod mini and speaker available, and something else tangerine that I can’t remember right now. Nice little set, anyway (it was my late father’s)!
+- **Tangerine iMac**: matching puck mouse, keyboard (mouse/keyboard need finding by me) and tangerine earbuds. Tangerine iPod mini and speaker, available on request. Nice little “full tangerine” set (it was my late father’s)
 - **MacBook** (white, 13-inch, Mid 2010): 2.4 GHz Intel Core 2 Duo, 8 GB 1067 MHz DDR3, Graphics NVIDIA GeForce 320M 256 MB, Serial 451121C8F5X, OS X Sierra 10.12.6
 
-Yet to be decided/catalogued/reset, specs TBC:
+### Details TBC:
 
 - ??? **PowerPC 8500/150** (extra RAM available)
 - ??? **white iBook** (the little one)
-- ??? **white iMac** (two, one futzed)
-- **silver iMac** (the all-in one)
+- ??? **white iBook** (the unibody one)
+- ??? **white all-in one iMac** (two, one futzed)
+- **silver all-in one iMac**
 - ??? **Power Mac G4** (grey,silver) boxed, matching screen, manual, docs.
 - **Apple wireless keyboard** (IIRC one key is intermittently faulty)
 - **Apple compact external keyboard** (USB)
@@ -38,7 +39,6 @@ Various vintage Apple keyboards to match.
 - **iPod Classic 120GB**, boxed, mint
 - **iPod mini** (tangerine, matches iMac above)
 - **iPhone 6**, boxed, VGC
-- **iPhone** (older TBC)
 
 ## Apple printers
 
@@ -69,6 +69,7 @@ Various vintage Apple keyboards to match.
 - **Apple Geoport** internal modem card
 - **Swann MacSurfer** 56k USB modem
 - **BT Speedway ISDN** PCI card, boxed
+- **Motorola 3400** Pro Online modem v.34 28.8: manuals, cable missing
 
 ## Third-party printers/misc. (some junk)
 
@@ -76,6 +77,5 @@ Various vintage Apple keyboards to match.
 - **Epson Stylus Color 500** - SCSI/serial (feed tray extension missing)
 - **HP A3** printer
 - **other inkjet printers** TBC
-- **Motorola 3400** Pro Online modem v.34 28.8: manuals, cable missing
 - Miscellaneous **RAM** for older Macs
 
