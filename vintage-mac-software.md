@@ -22,7 +22,7 @@ Machine-specific Apple software and manuals should stay with the machines listed
 
 ## Apple II application software
 
-- **Ormbeta Compact Accounting System**: rare obscure demo version, disks in vinyl folder, written in Pascal, have some extra info, but brief mentions can only be found on the WayBackMachine
+- **Ormbeta Compact Accounting System**: rare obscure demo version, disks in vinyl folder, written in Pascal, some extra info, but brief mentions can only be found on the WayBackMachine
 
 ### System 6 Application software
 
@@ -34,16 +34,16 @@ Machine-specific Apple software and manuals should stay with the machines listed
 
 ### System 7 Application software
 
-- 7.0+, **Supercard 3.0**, (media TBC)
-- 7.1+, **Filemaker Pro 3.0**
+<!-- - 7.0+, **Supercard 3.0**, software-buidling, Hypercard-style -->
+<!-- - 7.1+, **Filemaker Pro 3.0** -->
 - 7+ **Claris HomePage 3.0** (upgrade, 1994): Mac OS or Windows 95/NT 4.0 web building software. Made my first website with this.
 - **Claris Organiser 1.0v2**: (1994) 'bundled, not for resale' boxed with manual and unregistered licence
 - **Microsoft FoxPro 2.5**: for Mac System 7+, a rarity, Microsoft's vintage relational database management system software for Mac Classic. Unused, boxed with full manuals/leaflets and unregistered licence
-- 7+, **Quark XPress** (all full versions from 2.0, details TBC)
-- 7.51 and 8+, **Code Warrior Pro 5.0**, (vTBC)
+- 7+, **Quark XPress** (various versions from v5, details on request)
+<!-- - 7.51 and 8+, **Code Warrior Pro 5.0**, (vTBC) -->
 - 7+, **KTP Bryce** 1.0 (boxed contents sealed), disk +CD
 - 7+, **KTP Vector Effects**
-- 7+, **Macromedia Freehand Graphics Studio 7**: boxed, whole graphics suite including Extreme 3D 1.0, CDs
+- 7+, **Macromedia Freehand Graphics Studio 7**: boxed, whole graphics suite including Extreme 3D 1.0, CDs, various patches, disks
 - 6,7?, **Microsoft Office** trade-in pack, disk
 
 ### OS X Application software
@@ -54,7 +54,6 @@ Machine-specific Apple software and manuals should stay with the machines listed
 ## Other utility software (prefixed by Mac System, some educated guesses)
 
 - 6/7, **Adobe Type Manager**, disk
-- 6?/7, **Code Warrior 4**
 - 6/7, **MacPeak Spot On** disk utilities, disk
 - 6/7+, **Designer Font Pack**
 - 6/7?, **Honeywell Mouse Driver** Software v8.06 1992, disc
@@ -62,10 +61,8 @@ Machine-specific Apple software and manuals should stay with the machines listed
 - 7+, **Key Fonts**, disk x6
 - 7?, **Ram Doubler**, **Speed Doubler**
 - 7.1, **Suitcase**, v?, disk
-- 7+, **Macromedia Freehand Graphics Studio**, various patches, disks
 - 7.6, **DataViz MacLink Plus**: Mac/PC file **converter**
 - 7+, **StyleScript** 3.0, CD
-- 7+, OS X, **Supercard**: software-buidling, Hypercard-style
 - 7+, X, **Norton Utilities** versions 2.0/3.5 (System 7), 5.0 (System 8-9), 7 (OS X v?), boxed, manuals
 - 7+, **Norton Essentials** for Powerbook 1.1: boxed, sealed manuals and discs, unused with unregistered licence
 - 8,9, **Norton Antivirus** v5, CD
@@ -87,17 +84,11 @@ Many others.
 Mostly complete, very few issues missing or already sold:
 
 - One copy of pilot issue 1
-- apr1995-july1996
-- apr1995-june2006
-- aug1996-jan1998
-- jan1998-nov1999
-- jan2001-jan2004
-- mar1999-nov2000
-- CDs from many issues (photo available)
+<!-- - Apr1995-Jul1996 -->
+<!-- - Aug1996-Jan1998 -->
+<!-- - Feb1998-Nov2000 -->
+- Jan2001-Jun2006
+- Jan2007-Jan2017 (or to last issue)
+- CDs from many issues (details on request)
 
 Postage UK: 2nd class: £3.20; USA: £20.85
-
-## SOLD
-
-- CuBase
-- Photoshop v1
