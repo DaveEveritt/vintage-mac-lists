@@ -27,7 +27,7 @@ For machine-specific Apple software and manuals see below.
 - ??? **white iBook** (the unibody one)
 - ??? **white all-in one iMac** (two, one futzed)
 - **silver all-in one iMac**
-- ??? **Power Mac G4** (grey,silver) boxed, matching screen, manual, docs.
+- ??? **Power Mac G4 "Sawtooth"** (grey,silver) boxed, matching screen, manual, docs. PowerPC 7400 (G4) CPU (reserved) 
 - **Apple wireless keyboard** (IIRC one key is intermittently faulty)
 - **Apple compact external keyboard** (USB)
 - **Apple bluetooth trackpad**
@@ -42,7 +42,7 @@ Various vintage Apple keyboards to match.
 
 ## Apple printers
 
-- **Apple Personal LaserWriter NT**: Postscript Level 1 300DPI
+- **Apple Personal LaserWriter NT**: Postscript Level 1 300DPI (reserved)
 - **Apple Laserwriter 4/600**: Postscript Level2 600DPI
 - **Apple portable colour Stylewriter 2200** (two) one boxed, worked when last used, other needs attention
 

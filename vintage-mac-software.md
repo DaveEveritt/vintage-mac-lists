@@ -22,7 +22,7 @@ Machine-specific Apple software and manuals should stay with the machines listed
 
 ## Apple II application software
 
-- **Ormbeta Compact Accounting System**: rare obscure demo version, disks in vinyl folder, written in Pascal, some extra info, but brief mentions can only be found on the WayBackMachine
+- **Ormbeta Compact Accounting System**: rare obscure demo version, disks in vinyl folder, written in Pascal, some extra info, but brief mentions can only be found on the WayBackMachine. POA.
 
 ### System 6 Application software
 
@@ -34,14 +34,10 @@ Machine-specific Apple software and manuals should stay with the machines listed
 
 ### System 7 Application software
 
-<!-- - 7.0+, **Supercard 3.0**, software-buidling, Hypercard-style -->
-<!-- - 7.1+, **Filemaker Pro 3.0** -->
 - 7+ **Claris HomePage 3.0** (upgrade, 1994): Mac OS or Windows 95/NT 4.0 web building software. Made my first website with this.
 - **Claris Organiser 1.0v2**: (1994) 'bundled, not for resale' boxed with manual and unregistered licence
 - **Microsoft FoxPro 2.5**: for Mac System 7+, a rarity, Microsoft's vintage relational database management system software for Mac Classic. Unused, boxed with full manuals/leaflets and unregistered licence
 - 7+, **Quark XPress** (various versions from v5, details on request)
-<!-- - 7.51 and 8+, **Code Warrior Pro 5.0**, (vTBC) -->
-- 7+, **KTP Bryce** 1.0 (boxed contents sealed), disk +CD
 - 7+, **KTP Vector Effects**
 - 7+, **Macromedia Freehand Graphics Studio 7**: boxed, whole graphics suite including Extreme 3D 1.0, CDs, various patches, disks
 - 6,7?, **Microsoft Office** trade-in pack, disk
@@ -49,7 +45,6 @@ Machine-specific Apple software and manuals should stay with the machines listed
 ### OS X Application software
 
 - **Microsoft Office** various versions, incl. 10.8+, Office 2004 Student and Teacher (3 installs, at least 1 used)
-- FileMaker Pro
 
 ## Other utility software (prefixed by Mac System, some educated guesses)
 
@@ -83,7 +78,7 @@ Many others.
 
 Mostly complete, very few issues missing or already sold:
 
-- One copy of pilot issue 1
+- One copy of pilot issue 1, 1985 (reserved, price TBC)
 <!-- - Apr1995-Jul1996 -->
 <!-- - Aug1996-Jan1998 -->
 <!-- - Feb1998-Nov2000 -->
